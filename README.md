@@ -16,7 +16,7 @@ repositories {
 
 // 模块 gradle
 dependencies {
-	implementation 'com.tuyrt.permission:permissionimpl-ktx:1.0.0'
+	implementation 'com.github.tuyrt7:PermissionImpl-ktx:1.0.0'
 }
 
 ```
